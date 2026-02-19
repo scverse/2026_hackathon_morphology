@@ -1,6 +1,6 @@
 # scverse x morphology, 2026
 
-Welcome to another hackathon of our "Unifying Omics" series, organized in collaboration with the [CytoData society]([https://www.owkin.com](https://www.cytodata.org/))! This repository is your central hub for all hackathon resources including workstreams, data tutorials, event details, and participation guidelines.
+Welcome to another hackathon of our "Unifying Omics" series, organized in collaboration with the [CytoData society](https://www.cytodata.org/)! This repository is your central hub for all hackathon resources including workstreams, data tutorials, event details, and participation guidelines.
 
 ---
 
